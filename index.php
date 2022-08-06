@@ -1,3 +1,9 @@
+<?php
+
+    echo "Hello, World!";
+
+?>
+
 <!DOCTYPE html>
 <html lang="de">
 <head>

@@ -14,6 +14,8 @@
     <script src="js/cookies.js"></script>
 </head>
 <body>
-    
+
+    <p>Hallo, ich liebe es zu lernen!</p>
+
 </body>
 </html>

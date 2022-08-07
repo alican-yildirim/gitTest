@@ -14,6 +14,6 @@
     <script src="js/cookies.js"></script>
 </head>
 <body>
-
+    
 </body>
 </html>
